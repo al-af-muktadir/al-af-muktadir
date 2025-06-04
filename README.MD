@@ -1,3 +1,10 @@
+<a href="https://www.linkedin.com/in/al-af-muktadir">
+<img src="https://raw.githubusercontent.com/al-af-muktadir/al-af-muktadir/main/images/cover.svg" />
+</a>
+
+
+
+
 ## 🚀 Technologies I Know
 
 ---
