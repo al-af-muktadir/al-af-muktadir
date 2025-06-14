@@ -1,4 +1,4 @@
-![Your Banner Alt Text]("ss.png")
+![Your Banner Alt Text](https://github.com/al-af-muktadir/al-af-muktadir/blob/main/ss.png)
 ## :chart_with_upwards_trend: Current Stats
 
 <br />
