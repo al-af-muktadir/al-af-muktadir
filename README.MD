@@ -1,5 +1,4 @@
-
-
+<image src="ss.png"/>
 ## :chart_with_upwards_trend: Current Stats
 
 <br />
