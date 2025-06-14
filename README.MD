@@ -1,4 +1,4 @@
-<image src="ss.png"/>
+![Your Banner Alt Text](ss.png)
 ## :chart_with_upwards_trend: Current Stats
 
 <br />
